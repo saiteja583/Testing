@@ -1,0 +1,39 @@
+
+git stash
+
+git stash pop
+
+
+git pull
+ 
+git checkout -b "new branch name"
+
+ 
+git checkout "existing branch name"
+
+ 
+git commit -----> direct commit 
+
+ 
+git commit -m "commit message" ----> with commit message
+ 
+git merge
+
+ 
+git fetch
+ 
+git merge --origin branch name
+
+
+git push
+
+
+git add
+
+
+git status
+
+
+git add file name
+
+
